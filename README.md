@@ -24,6 +24,7 @@ Optimized performance for faster loading times.
 Clean and intuitive UI for enhanced user engagement.
 
 Getting Started
+
 Clone the repository.
 Install dependencies using npm install.
 Run the frontend and backend with npm start for React and npm run dev for Node.js.
